@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/0/b46e439a4ea7465da34af6c1d384d2f2/artifacts
+end_time: 1748195246905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b46e439a4ea7465da34af6c1d384d2f2
+run_name: melodic-finch-451
+run_uuid: b46e439a4ea7465da34af6c1d384d2f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748195245171
+status: 4
+tags: []
+user_id: aayus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/0/17b0716ab63d4be0877c4af6939b5605/artifacts
+end_time: 1748195284931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17b0716ab63d4be0877c4af6939b5605
+run_name: shivering-turtle-434
+run_uuid: 17b0716ab63d4be0877c4af6939b5605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748195284081
+status: 3
+tags: []
+user_id: aayus

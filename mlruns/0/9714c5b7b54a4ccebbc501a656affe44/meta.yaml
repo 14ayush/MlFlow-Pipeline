@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/0/9714c5b7b54a4ccebbc501a656affe44/artifacts
+end_time: 1748193949380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9714c5b7b54a4ccebbc501a656affe44
+run_name: welcoming-hog-389
+run_uuid: 9714c5b7b54a4ccebbc501a656affe44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748193949255
+status: 3
+tags: []
+user_id: aayus
