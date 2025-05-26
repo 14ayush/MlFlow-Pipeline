@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965571450743552747/70a8937b47ec48ec9fb71c79b3481dfe/artifacts
+end_time: 1748234601287
+entry_point_name: ''
+experiment_id: '965571450743552747'
+lifecycle_stage: active
+run_id: 70a8937b47ec48ec9fb71c79b3481dfe
+run_name: mercurial-jay-506
+run_uuid: 70a8937b47ec48ec9fb71c79b3481dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748234583553
+status: 3
+tags: []
+user_id: aayus
