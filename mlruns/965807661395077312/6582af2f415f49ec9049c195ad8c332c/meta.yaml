@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/6582af2f415f49ec9049c195ad8c332c/artifacts
+deleted_time: 1748277362664
+end_time: 1748276990830
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: deleted
+run_id: 6582af2f415f49ec9049c195ad8c332c
+run_name: dashing-crane-782
+run_uuid: 6582af2f415f49ec9049c195ad8c332c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748276990780
+status: 4
+tags: []
+user_id: aayus

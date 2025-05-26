@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/830190aff8a946099517eee7e351bb57/artifacts
+end_time: 1748277355349
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 830190aff8a946099517eee7e351bb57
+run_name: aged-shad-884
+run_uuid: 830190aff8a946099517eee7e351bb57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277355276
+status: 3
+tags: []
+user_id: aayus

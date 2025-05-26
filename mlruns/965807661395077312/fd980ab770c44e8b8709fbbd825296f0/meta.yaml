@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/fd980ab770c44e8b8709fbbd825296f0/artifacts
+deleted_time: 1748277362656
+end_time: 1748277195779
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: deleted
+run_id: fd980ab770c44e8b8709fbbd825296f0
+run_name: bemused-hound-239
+run_uuid: fd980ab770c44e8b8709fbbd825296f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277195659
+status: 4
+tags: []
+user_id: aayus

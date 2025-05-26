@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/27165e64fff64950bbd475dcf4245f75/artifacts
+end_time: 1748277354518
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 27165e64fff64950bbd475dcf4245f75
+run_name: amazing-perch-284
+run_uuid: 27165e64fff64950bbd475dcf4245f75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354458
+status: 3
+tags: []
+user_id: aayus

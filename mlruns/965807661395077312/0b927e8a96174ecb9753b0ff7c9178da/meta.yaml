@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/0b927e8a96174ecb9753b0ff7c9178da/artifacts
+end_time: 1748277354070
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 0b927e8a96174ecb9753b0ff7c9178da
+run_name: languid-doe-72
+run_uuid: 0b927e8a96174ecb9753b0ff7c9178da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354008
+status: 3
+tags: []
+user_id: aayus

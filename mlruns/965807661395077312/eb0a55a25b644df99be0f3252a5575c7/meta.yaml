@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/eb0a55a25b644df99be0f3252a5575c7/artifacts
+end_time: 1748277354450
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: eb0a55a25b644df99be0f3252a5575c7
+run_name: capricious-auk-695
+run_uuid: eb0a55a25b644df99be0f3252a5575c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354387
+status: 3
+tags: []
+user_id: aayus

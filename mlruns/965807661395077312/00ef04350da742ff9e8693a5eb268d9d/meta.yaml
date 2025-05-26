@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/00ef04350da742ff9e8693a5eb268d9d/artifacts
+end_time: 1748277354224
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 00ef04350da742ff9e8693a5eb268d9d
+run_name: gaudy-quail-583
+run_uuid: 00ef04350da742ff9e8693a5eb268d9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354157
+status: 3
+tags: []
+user_id: aayus

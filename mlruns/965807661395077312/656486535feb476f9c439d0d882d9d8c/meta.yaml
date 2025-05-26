@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/656486535feb476f9c439d0d882d9d8c/artifacts
+end_time: 1748277353550
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 656486535feb476f9c439d0d882d9d8c
+run_name: invincible-squid-755
+run_uuid: 656486535feb476f9c439d0d882d9d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353484
+status: 3
+tags: []
+user_id: aayus

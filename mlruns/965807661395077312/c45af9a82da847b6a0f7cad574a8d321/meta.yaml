@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/c45af9a82da847b6a0f7cad574a8d321/artifacts
+end_time: 1748277111311
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: c45af9a82da847b6a0f7cad574a8d321
+run_name: adaptable-koi-470
+run_uuid: c45af9a82da847b6a0f7cad574a8d321
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277111246
+status: 4
+tags: []
+user_id: aayus

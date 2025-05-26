@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/9ff7792bbf92450081b6ad2fa35d7d70/artifacts
+end_time: 1748277354742
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 9ff7792bbf92450081b6ad2fa35d7d70
+run_name: handsome-fowl-534
+run_uuid: 9ff7792bbf92450081b6ad2fa35d7d70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354679
+status: 3
+tags: []
+user_id: aayus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/c336f7ecd3c14ca08ca32d4aba459af8/artifacts
+end_time: 1748277354900
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: c336f7ecd3c14ca08ca32d4aba459af8
+run_name: calm-panda-977
+run_uuid: c336f7ecd3c14ca08ca32d4aba459af8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354825
+status: 3
+tags: []
+user_id: aayus

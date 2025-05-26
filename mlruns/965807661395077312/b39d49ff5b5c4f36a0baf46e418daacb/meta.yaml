@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/b39d49ff5b5c4f36a0baf46e418daacb/artifacts
+end_time: 1748277355114
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: b39d49ff5b5c4f36a0baf46e418daacb
+run_name: entertaining-kit-878
+run_uuid: b39d49ff5b5c4f36a0baf46e418daacb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277355049
+status: 3
+tags: []
+user_id: aayus

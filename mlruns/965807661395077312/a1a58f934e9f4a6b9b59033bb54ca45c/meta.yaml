@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/a1a58f934e9f4a6b9b59033bb54ca45c/artifacts
+end_time: 1748277353477
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: a1a58f934e9f4a6b9b59033bb54ca45c
+run_name: popular-skink-174
+run_uuid: a1a58f934e9f4a6b9b59033bb54ca45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353409
+status: 3
+tags: []
+user_id: aayus

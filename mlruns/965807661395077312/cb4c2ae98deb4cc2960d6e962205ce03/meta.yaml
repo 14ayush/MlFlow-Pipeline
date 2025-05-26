@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/cb4c2ae98deb4cc2960d6e962205ce03/artifacts
+end_time: 1748277354815
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: cb4c2ae98deb4cc2960d6e962205ce03
+run_name: inquisitive-mule-520
+run_uuid: cb4c2ae98deb4cc2960d6e962205ce03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354748
+status: 3
+tags: []
+user_id: aayus

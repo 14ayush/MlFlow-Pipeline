@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/74b9bca1601d4c89b6290f7915baa75a/artifacts
+end_time: 1748277195777
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 74b9bca1601d4c89b6290f7915baa75a
+run_name: gregarious-gnu-205
+run_uuid: 74b9bca1601d4c89b6290f7915baa75a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277195712
+status: 4
+tags: []
+user_id: aayus

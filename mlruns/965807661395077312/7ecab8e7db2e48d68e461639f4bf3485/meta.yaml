@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/7ecab8e7db2e48d68e461639f4bf3485/artifacts
+deleted_time: 1748277362657
+end_time: 1748277111313
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: deleted
+run_id: 7ecab8e7db2e48d68e461639f4bf3485
+run_name: bold-conch-342
+run_uuid: 7ecab8e7db2e48d68e461639f4bf3485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277111192
+status: 4
+tags: []
+user_id: aayus

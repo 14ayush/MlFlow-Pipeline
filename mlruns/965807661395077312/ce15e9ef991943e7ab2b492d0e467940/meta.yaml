@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/ce15e9ef991943e7ab2b492d0e467940/artifacts
+end_time: 1748277355524
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: ce15e9ef991943e7ab2b492d0e467940
+run_name: rogue-shrimp-446
+run_uuid: ce15e9ef991943e7ab2b492d0e467940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353183
+status: 3
+tags: []
+user_id: aayus

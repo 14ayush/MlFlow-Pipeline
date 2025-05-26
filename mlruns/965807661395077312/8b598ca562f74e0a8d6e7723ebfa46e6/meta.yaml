@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/8b598ca562f74e0a8d6e7723ebfa46e6/artifacts
+end_time: 1748277353400
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 8b598ca562f74e0a8d6e7723ebfa46e6
+run_name: bustling-shrike-78
+run_uuid: 8b598ca562f74e0a8d6e7723ebfa46e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353333
+status: 3
+tags: []
+user_id: aayus

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/115596e76be146debad355d5a4fb4401/artifacts
+end_time: 1748277354671
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 115596e76be146debad355d5a4fb4401
+run_name: wistful-elk-123
+run_uuid: 115596e76be146debad355d5a4fb4401
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354600
+status: 3
+tags: []
+user_id: aayus

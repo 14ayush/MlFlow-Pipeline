@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/0/c7afde12f4be476d9b881a08dd13848c/artifacts
+end_time: 1748275747100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7afde12f4be476d9b881a08dd13848c
+run_name: bedecked-penguin-663
+run_uuid: c7afde12f4be476d9b881a08dd13848c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748275735758
+status: 4
+tags: []
+user_id: aayus

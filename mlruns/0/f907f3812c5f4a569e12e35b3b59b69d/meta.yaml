@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/0/f907f3812c5f4a569e12e35b3b59b69d/artifacts
+end_time: 1748275901760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f907f3812c5f4a569e12e35b3b59b69d
+run_name: polite-crane-514
+run_uuid: f907f3812c5f4a569e12e35b3b59b69d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748275890782
+status: 4
+tags: []
+user_id: aayus

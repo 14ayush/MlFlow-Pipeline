@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/ce5eaf0b23224b4e81a5dd9a40fdc64b/artifacts
+end_time: 1748277353701
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: ce5eaf0b23224b4e81a5dd9a40fdc64b
+run_name: welcoming-vole-332
+run_uuid: ce5eaf0b23224b4e81a5dd9a40fdc64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353634
+status: 3
+tags: []
+user_id: aayus

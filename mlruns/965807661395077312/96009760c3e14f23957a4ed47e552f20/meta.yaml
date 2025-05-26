@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/96009760c3e14f23957a4ed47e552f20/artifacts
+end_time: 1748277354380
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 96009760c3e14f23957a4ed47e552f20
+run_name: exultant-loon-135
+run_uuid: 96009760c3e14f23957a4ed47e552f20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277354301
+status: 3
+tags: []
+user_id: aayus

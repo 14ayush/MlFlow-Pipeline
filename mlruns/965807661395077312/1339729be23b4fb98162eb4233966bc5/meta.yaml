@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/1339729be23b4fb98162eb4233966bc5/artifacts
+end_time: 1748277353327
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: 1339729be23b4fb98162eb4233966bc5
+run_name: upset-hog-11
+run_uuid: 1339729be23b4fb98162eb4233966bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353254
+status: 3
+tags: []
+user_id: aayus

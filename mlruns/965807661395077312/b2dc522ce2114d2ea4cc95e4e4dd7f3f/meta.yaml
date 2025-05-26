@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/b2dc522ce2114d2ea4cc95e4e4dd7f3f/artifacts
+end_time: 1748277355267
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: b2dc522ce2114d2ea4cc95e4e4dd7f3f
+run_name: persistent-croc-670
+run_uuid: b2dc522ce2114d2ea4cc95e4e4dd7f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277355199
+status: 3
+tags: []
+user_id: aayus

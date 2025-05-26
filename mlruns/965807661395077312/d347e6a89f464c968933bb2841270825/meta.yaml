@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/d347e6a89f464c968933bb2841270825/artifacts
+end_time: 1748277353861
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: d347e6a89f464c968933bb2841270825
+run_name: sassy-ape-995
+run_uuid: d347e6a89f464c968933bb2841270825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277353783
+status: 3
+tags: []
+user_id: aayus

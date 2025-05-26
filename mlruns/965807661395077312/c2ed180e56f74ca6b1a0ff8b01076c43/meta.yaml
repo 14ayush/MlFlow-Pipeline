@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MyProjects/Learning/MlFlow-Pipeline/mlruns/965807661395077312/c2ed180e56f74ca6b1a0ff8b01076c43/artifacts
+end_time: 1748277355451
+entry_point_name: ''
+experiment_id: '965807661395077312'
+lifecycle_stage: active
+run_id: c2ed180e56f74ca6b1a0ff8b01076c43
+run_name: masked-bird-279
+run_uuid: c2ed180e56f74ca6b1a0ff8b01076c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748277355360
+status: 3
+tags: []
+user_id: aayus
